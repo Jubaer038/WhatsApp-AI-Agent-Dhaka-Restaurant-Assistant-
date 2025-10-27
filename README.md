@@ -1,4 +1,4 @@
-# 🍽️ WhatsApp AI Agent – Dhaka Restaurant Assistant
+# 🍽️ WhatsApp AI Agent – Dhaka Restaruant Assistant
 
 An **AI-powered WhatsApp automation system** built using **n8n**, **Google Gemini (PaLM)**, and **Google Sheets** to handle restaurant customer interactions such as food ordering, FAQs, and inventory management — all through WhatsApp.
 
