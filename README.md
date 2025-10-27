@@ -18,7 +18,7 @@ The system automatically logs and updates data into **Google Sheets**, while res
 
 ## 🧩 Workflow Overview
 
-![Workflow](workflow.png)
+![Workflow Diagram](workflow.png)
 
 ### Components:
 1. **WhatsApp Trigger** – Receives messages from customers via Meta Cloud API.  
